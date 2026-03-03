@@ -328,3 +328,14 @@ We created a **scalable, cost-efficient, and production-ready** application — 
 ---
 
 > 📝 *Built as part of the AWS Cloud Project Bootcamp — Learning Journey*
+---
+
+## 👨‍💻 Author
+
+**Rahul Rajesh Sonar**
+
+If you liked this project, check out the full blog post for a detailed walkthrough:
+
+🔗 [Enroll in the Cloud: A Serverless Student Registration System on AWS](https://rahul-sonar.hashnode.dev/enroll-in-the-cloud-a-serverless-student-registration-system-on-aws)
+
+Feel free to ⭐ this repo if you found it helpful!
